@@ -17,11 +17,22 @@ run isoBuild.sh after build.sh to generate the lastest iso file
 
 * The one and only VIM editor *_* http://www.vim.org/
 
+
 ## Authors
 
 * **RipPer** - [RipPer](https://github.com/RipPer56/)
 
 
-## License
+ __________________________
+< LONG LIVE THE OPENSOURCE >
+ --------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 
-LONG LIVE THE OPENSOURCE
